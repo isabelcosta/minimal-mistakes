@@ -1,8 +1,7 @@
 ---
+layout: single
 title: Speak
-sidebar_link: true
 permalink: /speak/
-author_profile: true
 ---
 
 Hi, I'm trying to get started with Public Speaking, lets see how it goes..
