@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Isabel Costa"
 title_separator          : "-"
 name                     : "Isabel Costa"
-description              : "An amazing website."
+description              : "Isabel Costa Landing page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ author:
   avatar           : "https://avatars1.githubusercontent.com/u/11148726?s=460&v=4"
   bio              : "I am Software Developer, currently focused on Android. I was a GSoC Student turned Open Source enthusiast."
   location         : "Somewhere"
-  email            :
+  email            : "isabel.monteiro.costa@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
