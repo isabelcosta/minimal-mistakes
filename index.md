@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Hey there!
 ---
 
 # about me
