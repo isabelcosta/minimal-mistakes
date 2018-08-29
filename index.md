@@ -1,6 +1,5 @@
 ---
 layout: my_home
-title: Hey there!
 ---
 
 # about me
