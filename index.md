@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: my_home
 title: Hey there!
 ---
 
@@ -20,4 +20,4 @@ All my blog posts can be found on [Medium](https://medium.com/@isabelcmdcosta). 
 
 # speak
 
-On August 12, '18 I presented my [Google Summer of Code Final Demo](https://www.youtube.com/watch?v=xRZrdR47R-w) on YouTube.
+On August 12, '18 I presented my [Google Summer of Code Final Demo](https://www.youtube.com/watch?v=xRZrdR47R-w) on YouTube Live.
